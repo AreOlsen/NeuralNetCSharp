@@ -1,5 +1,5 @@
 # Basic Neural network written in c sharp. 
-Old project, now being reborn, not going to be reworked that much. Example code uses MNIST.
+Old project, now being reborn, not going to be reworked that much. A lot of rewriting of code going to be done. Abstraction and such. Example code uses MNIST.
 
 
 

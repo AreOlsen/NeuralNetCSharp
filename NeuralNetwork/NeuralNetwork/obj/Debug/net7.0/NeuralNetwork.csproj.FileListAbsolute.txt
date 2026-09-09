@@ -1,0 +1,6 @@
+/home/cockblocker/Desktop/Programming/C#/NeuralNetworkCSharp/NeuralNetwork/NeuralNetwork/obj/Debug/net7.0/NeuralNetwork.csproj.AssemblyReference.cache
+/home/cockblocker/Desktop/Programming/C#/NeuralNetworkCSharp/NeuralNetwork/NeuralNetwork/obj/Debug/net7.0/NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+/home/cockblocker/Desktop/Programming/C#/NeuralNetworkCSharp/NeuralNetwork/NeuralNetwork/obj/Debug/net7.0/NeuralNetwork.AssemblyInfoInputs.cache
+/home/cockblocker/Desktop/Programming/C#/NeuralNetworkCSharp/NeuralNetwork/NeuralNetwork/obj/Debug/net7.0/NeuralNetwork.AssemblyInfo.cs
+/home/cockblocker/Desktop/Programming/C#/NeuralNetworkCSharp/NeuralNetwork/NeuralNetwork/obj/Debug/net7.0/NeuralNetwork.csproj.CoreCompileInputs.cache
+/home/cockblocker/Desktop/Programming/C#/NeuralNetworkCSharp/NeuralNetwork/NeuralNetwork/obj/Debug/net7.0/NeuralNetwork.sourcelink.json
